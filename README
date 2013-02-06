@@ -1,52 +1,7 @@
-How to install:
-* https://play.google.com/store/apps/details?id=ca.ilanguage.bilingualaphasiatest
-
-User Guide: 
-* https://github.com/iLanguage/AndroidBilingualAphasiaTest/blob/master/documentation/UserGuide.doc?raw=true
-
-Screenshots:
-* https://github.com/iLanguage/AndroidBilingualAphasiaTest/tree/master/documentation
+AndroidBilingualAphasiaTest is out of the Lab and graduated into its own GitHub organization!
+======
 
 
+Come join us at the [BilingualAphasia][build] repository.
 
-This is code which was used give the eBAT pdfs (http://www.mcgill.ca/linguistics/research/bat/ a collection of over 50 Bilingual Assessments for Aphasia made open and free by Dr. Paradis and his collaborators)  "eyes and ears" for the Bilingual Aphasia Test Android app (Cook, Marquis, Achim 2011 presented at The Academy of Aphasia 2011 - Montreal)). To know more about the architecture you can look at the diagram for the Android section in this pdf: 
-https://github.com/iLanguage/AndroidBilingualAphasiaTest/blob/master/cook,marquis,achim-2011-aphasia_assessment_on_android_architecture_and_sample_results.pdf?raw=true
-
-
-You can think of this as the Participant's side of the project.  The tool has three functions
-
-1. Record audio video and touch for each subsection of the BAT
-2. Enter participant's id, it will autogenerate the participant code etc
-3. Backup results to a laptop by wifi after the experiment, and replay participant result videos 
-
-
-There are some WACHME YouTube Videos http://www.youtube.com/playlist?list=PLF468B25FFEF8EAF9 to show what this project does.
-
-The audience of this page:
-
-* open source programmers
-* researchers who program, or have a programmer in their team who can adapt the code to their needs
-
-
-The Android Bilingual Aphasia Test Team 
-* Gina Cook - iLanguage Lab LTD, Montréal Canada
-* Alexandra Marquis - École de Orthophonie et Audiologie, Université de Montréal
-* Émie Dessureault - École de Orthophonie et Audiologie, Université de Montréal
-* Kim Dan Nguyen - École de Orthophonie et Audiologie, Université de Montréal
-
-Contact us
-
-* https://docs.google.com/spreadsheet/viewform?formkey=dGpiRDhreGpmTFBmQ2FUTVVjVlhESHc6MQ
-* Leave us notes, comments, feedback, suggestions, virtual cookies in our issue tracker https://github.com/iLanguage/AndroidBilingualAphasiaTest/issues?milestone=6&state=closed
-
-
-Related Projects:
-
-* If you are interested in the Android Bilingual Aphasia Test, you might also be interested in another project, https://github.com/iLanguage/BilingualAphasiaTestScorer, which can turn a csv spread sheet into a BAT patient profile. It is also an HTML5 WebApp, you can use it online at http://ilanguage.github.com/BilingualAphasiaTestScorer/index.html or fork the code to modify it to your needs.
-* If you are interested in analyzing the Android BAT data you might be interested in another poject which is a WebApp which uses existing Open Source software to extract and analyze touch, eye gaze and audio data. The software it uses runs on Macs and Linux Machines.
-https://github.com/iLanguage/OPrime it is complicated to set up so contact us if you need help.
-
-The next steps:
-
-To encourage us you can "star" our project so we can get a feel for how many people are interested in the project, comment and vote +1 on Feature requests or add bugs to our Issue Tracker https://github.com/iLanguage/AndroidBilingualAphasiaTest/issues, "fork" the code, and even send us "pull requests" if you want to contribute your modifications.
-
+[build]: https://github.com/BilingualAphasia/AndroidBilingualAphasiaTest
